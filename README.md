@@ -4,7 +4,7 @@
 [ElasticBeanstalk Link](http://udagram-filter.us-east-1.elasticbeanstalk.com/)
 
 - [Failed test])
-![failed deployment screenshot](https://github.com/Bernado6/udacity-udagram-image-filter/blob/dev/deployment_screenshots/ElasticBeanstalk%20Screenshot.png?raw=true)
+![failed deployment screenshot](https://github.com/Bernado6/udacity-udagram-image-filter/blob/dev/deployment_screenshots/Failed%20request.png?raw=true)
 
 - [test passed(200 status code)](https://github.com/Bernado6/udacity-udagram-image-filter/blob/dev/deployment_screenshots/ElasticBeanstalk%20Screenshot.png?raw=true)
 ![deployment screenshot](https://github.com/Bernado6/udacity-udagram-image-filter/blob/dev/deployment_screenshots/filtered%20image.png?raw=true)
