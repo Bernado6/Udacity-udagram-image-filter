@@ -1,15 +1,15 @@
 # Udagram Image Filtering 
 
 # URL
-[ElasticBeanstalk Link](udagram-filter.us-east-1.elasticbeanstalk.com)
+[ElasticBeanstalk Link](http://udagram-filter.us-east-1.elasticbeanstalk.com/)
 
 - [Failed test])
-![failed deployment screenshot](https://github.com/brian-kipkoech-tanui/Udacity-project2-udagramImageFilter/blob/dev/deployment_screenshots/deployment_screenshot_0_failed.png?raw=true)
+![failed deployment screenshot](https://github.com/Bernado6/udacity-udagram-image-filter/blob/dev/deployment_screenshots/ElasticBeanstalk%20Screenshot.png?raw=true)
 
-- [test passed(200 status code)](http://udagram-image-filter-dev22222222.us-east-1.elasticbeanstalk.com/filteredimage?image_url=https://ichef.bbci.co.uk/onesport/cps/976/cpsprodpb/149BD/production/_126431448_gettyimages-1393565109.jpg)
-![deployment screenshot](https://github.com/brian-kipkoech-tanui/Udacity-project2-udagramImageFilter/blob/master/deployment_screenshots/deployment_screenshot1.png?raw=true)
+- [test passed(200 status code)](https://github.com/Bernado6/udacity-udagram-image-filter/blob/dev/deployment_screenshots/ElasticBeanstalk%20Screenshot.png?raw=true)
+![deployment screenshot](https://github.com/Bernado6/udacity-udagram-image-filter/blob/dev/deployment_screenshots/filtered%20image.png?raw=true)
 
-![working elastic Beanstalk scrrenshot](https://github.com/brian-kipkoech-tanui/Udacity-project2-udagramImageFilter/blob/master/deployment_screenshots/deployment_screenshot2.png?raw=true)
+![ElasticBeanstalk screenshot](https://github.com/Bernado6/udacity-udagram-image-filter/blob/dev/deployment_screenshots/ElasticBeanstalk%20Screenshot.png?raw=true)
 
 
 
