@@ -1,23 +1,20 @@
-# Udagram Image Filtering 
+# Udagram Image Filtering Application 
 
-# URL
- [Elastic-Beanstalk Link](http://udagram-filter.us-east-1.elasticbeanstalk.com/)
-
-- Image filtered Successfully
-![Image filtered Successfully](https://github.com/Bernado6/udacity-udagram-image-filter/blob/dev/deployment_screenshots/ElasticBeanstalk%20Screenshot.png?raw=true)
-
-- deployment screenshot
-![deployment screenshot](https://github.com/Bernado6/udacity-udagram-image-filter/blob/dev/deployment_screenshots/filtered%20image.png?raw=true)
+## URLs
+- [Elastic-Beanstalk Link](http://udagram-filter.us-east-1.elasticbeanstalk.com/)
 
 - ElasticBeanstalk screenshot
- ![ElasticBeanstalk screenshot](https://github.com/Bernado6/udacity-udagram-image-filter/blob/dev/deployment_screenshots/ElasticBeanstalk%20Screenshot.png?raw=true)
+![Image filtered Successfully](https://github.com/Bernado6/udacity-udagram-image-filter/blob/dev/deployment_screenshots/ElasticBeanstalk%20Screenshot.png?raw=true)
+
+- Image filtered Successfully
+![deployment screenshot](https://github.com/Bernado6/udacity-udagram-image-filter/blob/dev/deployment_screenshots/filtered%20image.png?raw=true)
 
 
 - Failed test
   ![failed deployment screenshot](https://github.com/Bernado6/udacity-udagram-image-filter/blob/dev/deployment_screenshots/Failed%20request.png?raw=true)
 
 
-
+## What is Udagram?
 Udagram is a simple cloud application developed alongside the Udacity Cloud Engineering Nanodegree. It allows users to register and log into a web client, post photos to the feed, and process photos using an image filtering microservice.
 
 The project is split into three parts:
