@@ -1,4 +1,17 @@
-# Udagram Image Filtering Microservice
+# Udagram Image Filtering 
+
+# URL
+[ElasticBeanstalk Link](udagram-filter.us-east-1.elasticbeanstalk.com)
+
+- [Failed test])
+![failed deployment screenshot](https://github.com/brian-kipkoech-tanui/Udacity-project2-udagramImageFilter/blob/dev/deployment_screenshots/deployment_screenshot_0_failed.png?raw=true)
+
+- [test passed(200 status code)](http://udagram-image-filter-dev22222222.us-east-1.elasticbeanstalk.com/filteredimage?image_url=https://ichef.bbci.co.uk/onesport/cps/976/cpsprodpb/149BD/production/_126431448_gettyimages-1393565109.jpg)
+![deployment screenshot](https://github.com/brian-kipkoech-tanui/Udacity-project2-udagramImageFilter/blob/master/deployment_screenshots/deployment_screenshot1.png?raw=true)
+
+![working elastic Beanstalk scrrenshot](https://github.com/brian-kipkoech-tanui/Udacity-project2-udagramImageFilter/blob/master/deployment_screenshots/deployment_screenshot2.png?raw=true)
+
+
 
 Udagram is a simple cloud application developed alongside the Udacity Cloud Engineering Nanodegree. It allows users to register and log into a web client, post photos to the feed, and process photos using an image filtering microservice.
 
@@ -45,4 +58,4 @@ Prevent requests without valid authentication headers.
 ### Custom Domain Name
 
 Add your own domain name and have it point to the running services (try adding a subdomain name to point to the processing server)
-> !NOTE: Domain names are not included in AWS’ free tier and will incur a cost.
+> !NOTE: Domain names are not included in AWSâ free tier and will incur a cost.
